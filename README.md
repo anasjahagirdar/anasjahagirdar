@@ -75,12 +75,12 @@ open_to: Collaboration, Freelance & Exciting Opportunities
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 💰 **EduWallet** | AI-powered student budget & expense tracker with intelligent financial insights | React, Node.js, Gen AI |
-| ❤️ **Dating App** | Feature-rich Android dating application with real-time chat & matchmaking | Java, Android Studio, Firebase |
-| 🎬 **Movie Recommender** | Collaborative & content-based movie recommendation engine | Python, ML, Pandas |
-| 📈 **Stock Price Predictor** | LSTM-based deep learning model for stock price forecasting | Python, TensorFlow, LSTM |
-| 🦠 **COVID-19 Dashboard** | Interactive real-time pandemic data visualization dashboard | Python, Streamlit |
-| 🏦 **Loan Eligibility Predictor** | ML classifier for automated loan eligibility assessment | Python, Scikit-learn |
+| ❤️ **[Dating-Application](https://github.com/anasjahagirdar/Dating-Application)** | Modern dating app with real-time chat, location-based suggestions & AI-powered matchmaking | Java, Kotlin, Android Studio, Firebase |
+| 🤖 **[ChronoCast-Ai](https://github.com/anasjahagirdar/ChronoCast-Ai)** | AI-powered application built with Python | Python, Gen AI |
+| 📈 **[Luminex-Stock-Market-Portfolio-Analyzer](https://github.com/anasjahagirdar/Luminex-Stock-Market-Portfolio-Analyzer-with-Prediction)** | Full-stack financial analytics platform to track, analyze & predict stock market performance | TypeScript, ML, Prediction Models |
+| 🍱 **[Tiffin-service-management](https://github.com/anasjahagirdar/Tiffin-service-management)** | Full Stack Tiffin Service SaaS with authentication & management dashboard | Django REST, React, JWT, Tailwind |
+| 🎓 **[College_Management_System](https://github.com/anasjahagirdar/College_Management_System_In_Python_With_source_code)** | Integrated console-based college management system handling academic activities | Python |
+| 🥛 **[Milk-man-project](https://github.com/anasjahagirdar/Milk-man-project)** | Milk delivery management web application | HTML, CSS, JavaScript |
 
 ---
 
