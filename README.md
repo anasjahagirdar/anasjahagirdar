@@ -107,37 +107,90 @@ fact     : I ship things. Then I make them better. ☕
 <!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
+<!-- ROW 1 — HERO PROJECT (full width) -->
 <div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="100%">
 
-| 🌟 Project | ⚡ Stack | 📝 Description |
-|---|---|---|
-| [**🛰️ Orion Market AI**](https://github.com/anasjahagirdar/Orion-Market-AI) | Django · React · Groq · ChromaDB · Azure | Live stock intelligence platform with RAG pipelines, FinBERT sentiment, AI-generated reports & portfolio clustering — deployed at `oriona.duckdns.org` |
-| [**₿ ChronoCast AI**](https://github.com/anasjahagirdar/ChronoCast-Ai) | Python · MLflow · Docker · Azure | Bitcoin price forecasting MLOps platform — Medallion Architecture, automated retraining, live Azure deployment |
-| [**📈 BTC Databricks Pipeline**](https://github.com/anasjahagirdar/btc-price-prediction-databricks) | PySpark · Delta Lake · MLflow | End-to-end BTC prediction pipeline on Databricks with Spark ML, Delta Lake & MLflow tracking |
-| [**🥛 MilkMan**](https://github.com/anasjahagirdar/MilkMan) | Flask · AngularJS · Azure · Nginx | Dairy subscription platform with customer + admin portals, GitHub Actions CI/CD, live on Azure VM |
-| [**📊 Luminex Stock Analyzer**](https://github.com/anasjahagirdar/Luminex-Stock-Market-Portfolio-Analyzer-with-Prediction) | React · TypeScript · TensorFlow | Full-stack financial analytics platform with LSTM stock price prediction |
-| [**❤️ Dating Application**](https://github.com/anasjahagirdar/Dating-Application) | Kotlin · Java · Firebase | Android dating app with real-time chat, location-based matching & AI recommendations |
+<a href="https://github.com/anasjahagirdar/Orion-Market-AI">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&pause=99999&color=A78BFA&center=true&vCenter=true&width=860&height=28&lines=🛰️+HERO+PROJECT+—+LIVE+IN+PRODUCTION" alt="hero"/>
+</a>
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<a href="https://github.com/anasjahagirdar/Orion-Market-AI">
+  <img width="96%" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=Orion-Market-AI&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=a78bfa&border_radius=16&description_lines_count=3" />
+</a>
+
+<br/>
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1a1a2e?style=flat-square&logoColor=white)
+![FinBERT](https://img.shields.io/badge/FinBERT-0077B6?style=flat-square&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+> 🌐 **Live at → [oriona.duckdns.org](http://oriona.duckdns.org)** &nbsp;|&nbsp; RAG pipelines · FinBERT sentiment · AI stock reports · Portfolio clustering
 
 </div>
 
----
+<br/>
 
-<!-- PINNED REPO CARDS -->
+<!-- ROW 2 — 2 PROJECTS SIDE BY SIDE -->
 <div align="center">
 
-<a href="https://github.com/anasjahagirdar/Orion-Market-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=Orion-Market-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&border_radius=12" />
-</a>
 <a href="https://github.com/anasjahagirdar/ChronoCast-Ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=ChronoCast-Ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&border_radius=12" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=ChronoCast-Ai&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=2d2d4e&border_radius=16" />
+</a>
+<a href="https://github.com/anasjahagirdar/btc-price-prediction-databricks">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=btc-price-prediction-databricks&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=2d2d4e&border_radius=16" />
 </a>
 
-<a href="https://github.com/anasjahagirdar/btc-price-prediction-databricks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=btc-price-prediction-databricks&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&border_radius=12" />
-</a>
+</div>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ROW 3 — 2 MORE PROJECTS -->
+<div align="center">
+
 <a href="https://github.com/anasjahagirdar/Luminex-Stock-Market-Portfolio-Analyzer-with-Prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=Luminex-Stock-Market-Portfolio-Analyzer-with-Prediction&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&border_radius=12" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=Luminex-Stock-Market-Portfolio-Analyzer-with-Prediction&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=2d2d4e&border_radius=16" />
 </a>
+<a href="https://github.com/anasjahagirdar/Dating-Application">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=Dating-Application&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=2d2d4e&border_radius=16" />
+</a>
+
+</div>
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </div>
 
