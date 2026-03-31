@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════
-     ANAS JAHAGIRDAR — GitHub Profile README (Upgraded)
+     ANAS JAHAGIRDAR — GitHub Profile README (Master Edition)
      ═══════════════════════════════════════════════════════════ -->
 
 <!-- HERO HEADER -->
@@ -52,8 +52,8 @@ fact     : I ship things. Then I make them better. ☕
 
 <br/>
 
-- 🛰️ &nbsp;Deployed **Orion Market AI** — a live stock intelligence platform on Azure with RAG, sentiment analysis, and AI-generated reports
-- 🤖 &nbsp;Building **LLM-powered products** using Groq, FinBERT, ChromaDB, and LangChain
+- 🛰️ &nbsp;Deployed **Orion Market AI** — live stock intelligence on Azure with RAG, FinBERT & AI reports
+- 🤖 &nbsp;Building **LLM-powered products** using Groq, ChromaDB, FinBERT & LangChain
 - 📊 &nbsp;Background in **Data Science** — LSTMs, PySpark, Databricks, Delta Lake, MLflow
 - 📱 &nbsp;Built **Android apps** with Firebase, Kotlin & Java
 - 💡 &nbsp;Always learning, always shipping
@@ -86,10 +86,8 @@ fact     : I ship things. Then I make them better. ☕
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="46"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" height="46"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" height="46"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="46"/>
-  <img src="https://img.shields.io/badge/ChromaDB-1a1a2e?style=for-the-badge&logoColor=white" height="46"/>
-  <img src="https://img.shields.io/badge/FinBERT-0077B6?style=for-the-badge&logoColor=white" height="46"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="46"/>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="46"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="46"/>
@@ -104,93 +102,108 @@ fact     : I ship things. Then I make them better. ☕
 
 ---
 
-<!-- FEATURED PROJECTS -->
+<!-- ═══════════════════════════════════════════════════════════
+     FEATURED PROJECTS
+     Repo names verified from your exact GitHub URLs:
+     • btc-price-prediction-databricks
+     • ChronoCast-Ai
+     • Luminex-Stock-Market-Portfolio-Analyzer-with-Prediction
+     • GoldSilver-Forecast-ML-project
+     • Tiffin-service-management
+     ═══════════════════════════════════════════════════════════ -->
+
 ## 🚀 Featured Projects
 
-<!-- ROW 1 — HERO PROJECT (full width) -->
+<!-- ── HERO: ORION MARKET AI ─────────────────────────────── -->
 <div align="center">
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-<td align="center" width="100%">
 
-<a href="https://github.com/anasjahagirdar/Orion-Market-AI">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&pause=99999&color=A78BFA&center=true&vCenter=true&width=860&height=28&lines=🛰️+HERO+PROJECT+—+LIVE+IN+PRODUCTION" alt="hero"/>
-</a>
+### 🌟 Hero Project — Live in Production
 
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<a href="https://github.com/anasjahagirdar/Orion-Market-AI">
-  <img width="96%" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=Orion-Market-AI&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=a78bfa&border_radius=16&description_lines_count=3" />
+<a href="https://github.com/anasjahagirdar/Orion-Market-Ai">
+  <img width="88%" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=Orion-Market-Ai&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=a78bfa&border_radius=16" />
 </a>
 
 <br/>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-1a1a2e?style=flat-square&logoColor=white)
-![FinBERT](https://img.shields.io/badge/FinBERT-0077B6?style=flat-square&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6D28D9?style=for-the-badge&logoColor=white)
+![FinBERT](https://img.shields.io/badge/FinBERT-0077B6?style=for-the-badge&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-> 🌐 **Live at → [oriona.duckdns.org](http://oriona.duckdns.org)** &nbsp;|&nbsp; RAG pipelines · FinBERT sentiment · AI stock reports · Portfolio clustering
+**🌐 Live at → [oriona.duckdns.org](http://oriona.duckdns.org)**
+RAG pipelines · FinBERT sentiment · AI stock reports · Portfolio clustering · Quality scoring
 
 </div>
 
 <br/>
 
-<!-- ROW 2 — 2 PROJECTS SIDE BY SIDE -->
+<!-- ── ROW 1: BTC Databricks + ChronoCast AI ────────────── -->
 <div align="center">
 
-<a href="https://github.com/anasjahagirdar/ChronoCast-Ai">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=ChronoCast-Ai&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=2d2d4e&border_radius=16" />
-</a>
 <a href="https://github.com/anasjahagirdar/btc-price-prediction-databricks">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=btc-price-prediction-databricks&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=2d2d4e&border_radius=16" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=btc-price-prediction-databricks&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=2d2d4e&border_radius=16" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/anasjahagirdar/ChronoCast-Ai">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=ChronoCast-Ai&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=2d2d4e&border_radius=16" />
 </a>
 
-</div>
+<br/>
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+&nbsp;&nbsp;|&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 </div>
 
 <br/>
 
-<!-- ROW 3 — 2 MORE PROJECTS -->
+<!-- ── ROW 2: GoldSilver Forecast + Tiffin Service ─────── -->
+<div align="center">
+
+<a href="https://github.com/anasjahagirdar/GoldSilver-Forecast-ML-project">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=GoldSilver-Forecast-ML-project&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=2d2d4e&border_radius=16" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/anasjahagirdar/Tiffin-service-management">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=Tiffin-service-management&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=2d2d4e&border_radius=16" />
+</a>
+
+<br/>
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![yFinance](https://img.shields.io/badge/yFinance-6D28D9?style=flat-square&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+&nbsp;&nbsp;|&nbsp;&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ── ROW 3: Luminex (centred) ──────────────────────────── -->
 <div align="center">
 
 <a href="https://github.com/anasjahagirdar/Luminex-Stock-Market-Portfolio-Analyzer-with-Prediction">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=Luminex-Stock-Market-Portfolio-Analyzer-with-Prediction&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=2d2d4e&border_radius=16" />
-</a>
-<a href="https://github.com/anasjahagirdar/Dating-Application">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=Dating-Application&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=2d2d4e&border_radius=16" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=Luminex-Stock-Market-Portfolio-Analyzer-with-Prediction&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=2d2d4e&border_radius=16" />
 </a>
 
-</div>
-
-<div align="center">
+<br/>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </div>
 
@@ -252,17 +265,6 @@ fact     : I ship things. Then I make them better. ☕
 
 ---
 
-<!-- SNAKE ANIMATION -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anasjahagirdar/anasjahagirdar/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anasjahagirdar/anasjahagirdar/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anasjahagirdar/anasjahagirdar/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
 ---
 
 <!-- CONNECT -->
@@ -273,7 +275,7 @@ fact     : I ship things. Then I make them better. ☕
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-jahagirdar-82245b2b6)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anasjahagirdar)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasjahagirdar1234@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live%20Project-oriona.duckdns.org-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](http://oriona.duckdns.org)
+[![Live Project](https://img.shields.io/badge/🛰️%20Orion%20Market%20AI-oriona.duckdns.org-a78bfa?style=for-the-badge)](http://oriona.duckdns.org)
 
 </div>
 
@@ -281,10 +283,9 @@ fact     : I ship things. Then I make them better. ☕
 
 ---
 
-<!-- DEV QUOTE -->
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"First, solve the problem. Then, write the code."*
 
 </div>
 
