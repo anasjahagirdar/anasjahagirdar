@@ -104,116 +104,136 @@ fact     : I ship things. Then I make them better. ☕
 
 ## 🚀 Featured Projects
 
-<!-- ══════════════════════════════════════════
-     HERO — ORION MARKET AI
-     Custom card (repo not yet public on GitHub)
-     ══════════════════════════════════════════ -->
-
 <div align="center">
 
-### 🌟 Hero Project — Live in Production
+<!-- ── HERO CARD ─────────────────────────────────────────── -->
 
-<table border="0" width="88%" align="center">
-<tr>
-<td align="left" style="background:#0d1117;border:1px solid #a78bfa;border-radius:12px;padding:20px">
+<table width="90%" border="0"><tr><td>
 
-**[🛰️ Orion Market AI](http://oriona.duckdns.org)** &nbsp;&nbsp; ![Live](https://img.shields.io/badge/🟢-LIVE-22c55e?style=flat-square&labelColor=0d1117)
+### &nbsp;🛰️ &nbsp;Orion Market AI &nbsp;&nbsp; ![Live](https://img.shields.io/badge/●%20LIVE-22c55e?style=flat-square&labelColor=0d1117)
 
-Stock intelligence platform with RAG pipelines, FinBERT sentiment analysis, AI-generated equity reports, portfolio clustering & quality scoring — deployed on Azure.
+> **AI-powered stock intelligence platform deployed on Azure**
+
+Full-stack platform with RAG pipelines, FinBERT sentiment scoring, Groq-powered AI equity reports, portfolio clustering, quality scoring engine & real-time stock data — built with Django + React 19.
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-6D28D9?style=flat-square&logoColor=white)
 ![FinBERT](https://img.shields.io/badge/FinBERT-0077B6?style=flat-square&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![yFinance](https://img.shields.io/badge/yFinance-1a1a2e?style=flat-square&logoColor=white)
 
-🌐 **Live → [oriona.duckdns.org](http://oriona.duckdns.org)**
+🌐 **[oriona.duckdns.org](http://oriona.duckdns.org)** &nbsp;·&nbsp; RAG · Sentiment · AI Reports · Portfolio Clustering
 
-</td>
-</tr>
-</table>
-
-</div>
+</td></tr></table>
 
 <br/>
 
-<!-- ══════════════════════════════════════════
-     ROW 1 — CONFIRMED PUBLIC REPOS (Pin cards work)
-     • ChronoCast-Ai ✅
-     • btc-price-prediction-databricks ✅
-     ══════════════════════════════════════════ -->
+<!-- ── PROJECT GRID ──────────────────────────────────────── -->
 
-<div align="center">
+<table width="90%" border="0">
+<tr>
 
-<a href="https://github.com/anasjahagirdar/ChronoCast-Ai">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=ChronoCast-Ai&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=2d2d4e&border_radius=16" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/anasjahagirdar/btc-price-prediction-databricks">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=btc-price-prediction-databricks&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=2d2d4e&border_radius=16" />
-</a>
+<!-- ChronoCast AI -->
+<td width="50%" valign="top">
 
-<br/>
+**[⚡ ChronoCast AI](https://github.com/anasjahagirdar/ChronoCast-Ai)** &nbsp; ![Live](https://img.shields.io/badge/●%20LIVE-22c55e?style=flat-square&labelColor=0d1117)
+
+> Production-grade BTC forecasting MLOps platform
+
+Linear Regression · ARIMA · LSTM models, MLflow experiment tracking, champion-challenger model registry, Evidently AI drift detection — deployed on Azure VM with Docker + Nginx CI/CD.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-&nbsp;&nbsp;|&nbsp;&nbsp;
+
+</td>
+
+<!-- BTC Databricks -->
+<td width="50%" valign="top">
+
+**[₿ BTC Price Prediction — Databricks](https://github.com/anasjahagirdar/btc-price-prediction-databricks)**
+
+> Automated BTC pipeline on Databricks Medallion Architecture
+
+Bronze → Silver → Gold layers using PySpark, Delta Lake & Spark ML. R² of 0.97, MAPE of 1.68%. Live Databricks dashboard with 5 visualizations & hourly prediction jobs.
+
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![yFinance](https://img.shields.io/badge/yFinance-1a1a2e?style=flat-square&logoColor=white)
 
-</div>
+</td>
+</tr>
 
-<br/>
+<tr>
 
-<!-- ══════════════════════════════════════════
-     ROW 2 — CONFIRMED PUBLIC REPO + CUSTOM CARD
-     • Luminex ✅ (pin card)
-     • GoldSilver Forecast (custom card — verify repo visibility)
-     ══════════════════════════════════════════ -->
+<!-- Luminex -->
+<td width="50%" valign="top">
 
-<div align="center">
+**[📊 Luminex Stock Analyzer](https://github.com/anasjahagirdar/Luminex-Stock-Market-Portfolio-Analyzer-with-Prediction)**
 
-<a href="https://github.com/anasjahagirdar/Luminex-Stock-Market-Portfolio-Analyzer-with-Prediction">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=Luminex-Stock-Market-Portfolio-Analyzer-with-Prediction&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=2d2d4e&border_radius=16" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/anasjahagirdar/GoldSilver-Forecast-ML-project">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=GoldSilver-Forecast-ML-project&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=2d2d4e&border_radius=16" />
-</a>
+> AI-powered portfolio analytics with ML price prediction
 
-<br/>
+Real-time stock charts, LSTM & Linear Regression prediction, K-Means portfolio clustering, Sharpe ratio & risk scoring — supports Indian (BSE) & International markets.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-&nbsp;&nbsp;|&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+
+<!-- GoldSilver -->
+<td width="50%" valign="top">
+
+**[🥇 GoldSilver Forecast ML](https://github.com/anasjahagirdar/GoldSilver-Forecast-ML-project)**
+
+> Gold & Silver price predictor with INR conversion
+
+Flask + scikit-learn Linear Regression model, live price fetching via yFinance, INR conversion, Chart.js visualizations — fully interactive prediction interface.
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![yFinance](https://img.shields.io/badge/yFinance-6D28D9?style=flat-square&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-</div>
+</td>
+</tr>
 
-<br/>
+<tr>
 
-<!-- ══════════════════════════════════════════
-     ROW 3 — TIFFIN SERVICE
-     ══════════════════════════════════════════ -->
+<!-- Tiffin Service -->
+<td width="50%" valign="top">
 
-<div align="center">
+**[🍱 Tiffin Service Management](https://github.com/anasjahagirdar/Tiffin-service-management)**
 
-<a href="https://github.com/anasjahagirdar/Tiffin-service-management">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=anasjahagirdar&repo=Tiffin-service-management&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&border_color=2d2d4e&border_radius=16" />
-</a>
+> Full-stack tiffin subscription & delivery platform
 
-<br/>
+Customer portal + admin dashboard with subscription management, delivery tracking, and order analytics — deployed on Azure with GitHub Actions CI/CD.
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+<!-- placeholder for future project -->
+</td>
+
+</tr>
+</table>
 
 </div>
 
