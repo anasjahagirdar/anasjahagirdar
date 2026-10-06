@@ -3,7 +3,7 @@
 <!-- HERO HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a0533,100:0d1117&height=220&section=header&text=Anas%20Jahagirdar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20MLOps%20%E2%80%A2%20Applied%20GenAI&descAlignY=62&descSize=16&descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a0533,100:0d1117&height=220&section=header&text=Anas%20Jahagirdar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20MLE%20%E2%80%A2%20Applied%20GenAI&descAlignY=62&descSize=16&descColor=a78bfa" width="100%" />
 
 </div>
 
@@ -36,9 +36,9 @@ I build machine learning systems end to end: data pipelines, model training and 
 
 ```yaml
 name     : Anas Jahagirdar
-focus    : ML Engineering · MLOps · Applied GenAI
-current  : Data Engineering Intern @ Bizmetric
-stack    : Python · PySpark · Databricks · MLflow · Docker · Azure
+focus    : MLE Engineering · MLOps · Applied GenAI
+current  : Associate Software Engineer @ Bizmetric
+stack    : Python · PySpark · Databricks · Microsoft Fabric · MLflow · Docker · Azure
 learning : Databricks (Unity Catalog) · Agentic AI · RAG
 contact  : anasjahagirdar1234@gmail.com
 ```
