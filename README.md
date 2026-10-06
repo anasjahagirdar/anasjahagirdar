@@ -1,31 +1,27 @@
-<!-- ═══════════════════════════════════════════════════════════
-     ANAS JAHAGIRDAR — GitHub Profile README (Master Edition)
-     ═══════════════════════════════════════════════════════════ -->
+<!-- Anas Jahagirdar — GitHub profile README -->
 
 <!-- HERO HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a0533,100:0d1117&height=220&section=header&text=Anas%20Jahagirdar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Generative%20AI%20Engineer%20%E2%80%A2%20Maharashtra%2C%20India&descAlignY=62&descSize=16&descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a0533,100:0d1117&height=220&section=header&text=Anas%20Jahagirdar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20MLOps%20%E2%80%A2%20Applied%20GenAI&descAlignY=62&descSize=16&descColor=a78bfa" width="100%" />
 
 </div>
 
 <!-- TYPING BANNER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=750&lines=Building+AI-powered+full-stack+products+%F0%9F%9A%80;Django+%7C+React+%7C+Azure+%7C+LLMs+%7C+RAG+Pipelines;Turning+complex+data+into+intelligent+interfaces+%F0%9F%A4%96;Open+to+exciting+opportunities+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=750&lines=Training%2C+tracking+and+shipping+ML+models;Python+%7C+PySpark+%7C+MLflow+%7C+Docker+%7C+Azure;Forecasting+%7C+NLP+%7C+RAG+%7C+Drift+Monitoring;Open+to+ML+Engineer+roles)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<!-- BADGES ROW -->
+<!-- BADGES -->
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=anasjahagirdar&label=Profile%20Views&color=7c3aed&style=flat-square&labelColor=0d1117)](https://github.com/anasjahagirdar)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/anasjahagirdar?label=Followers&style=flat-square&color=7c3aed&labelColor=0d1117)](https://github.com/anasjahagirdar?tab=followers)&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/anasjahagirdar?label=Total%20Stars&style=flat-square&color=f59e0b&labelColor=0d1117)](https://github.com/anasjahagirdar)&nbsp;
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&labelColor=0d1117)&nbsp;
-![Location](https://img.shields.io/badge/📍-Maharashtra%2C%20India-a78bfa?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Open%20to-ML%20Engineer%20Roles-22c55e?style=flat-square&labelColor=0d1117)&nbsp;
+![Location](https://img.shields.io/badge/Location-Maharashtra%2C%20India-a78bfa?style=flat-square&labelColor=0d1117)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/anas-jahagirdar-82245b2b6)
 
 </div>
 
@@ -33,135 +29,78 @@
 
 ---
 
-<!-- ABOUT ME -->
-<img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360" />
+<!-- ABOUT -->
+## About
 
-### 👨‍💻 About Me
+I build machine learning systems end to end: data pipelines, model training and experiment tracking, deployment, and monitoring. My projects cover time-series forecasting, financial NLP and retrieval-augmented generation, and I care most about the parts that make a model usable in practice, such as reproducible experiments, a model registry, drift checks and CI/CD.
 
 ```yaml
 name     : Anas Jahagirdar
-role     : Full Stack Dev & Gen AI Engineer
-location : Maharashtra, India
-current  : Intern @ Bizmetric (Django · React · Azure)
-building : LLM Apps · RAG Pipelines · AI Agents
-stack    : Python · Django · React · PostgreSQL · Azure
-learning : Cloud-Native & Advanced AI Architectures
+focus    : ML Engineering · MLOps · Applied GenAI
+current  : Data Engineering Intern @ Bizmetric
+stack    : Python · PySpark · Databricks · MLflow · Docker · Azure
+learning : Databricks (Unity Catalog) · Agentic AI · RAG
 contact  : anasjahagirdar1234@gmail.com
-fact     : I ship things. Then I make them better. ☕
 ```
-
-<br/>
-
-- 🛰️ &nbsp;Deployed **Orion Market AI** — live stock intelligence on Azure with RAG, FinBERT & AI reports
-- 🤖 &nbsp;Building **LLM-powered products** using Groq, ChromaDB, FinBERT & LangChain
-- 📊 &nbsp;Background in **Data Science** — LSTMs, PySpark, Databricks, Delta Lake, MLflow
-- 📱 &nbsp;Built **Android apps** with Firebase, Kotlin & Java
-- 💡 &nbsp;Always learning, always shipping
-
-<br clear="right"/>
 
 ---
 
 <!-- TECH STACK -->
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Frontend**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,vite&perline=9" />
-  </a>
-</p>
-
-**Backend & Mobile**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,nodejs,fastapi,flask,java,kotlin,androidstudio,firebase&perline=9" />
-  </a>
-</p>
-
-**AI / ML / Gen AI**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=9" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="46"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" height="46"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="46"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="46"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="46"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="46"/>
-</p>
-
-**Databases, Cloud & DevOps**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,azure,docker,nginx,git,github&perline=9" />
-  </a>
-</p>
+| Area | Tools |
+| :-- | :-- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white) |
+| **ML & Deep Learning** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| **Data Platforms** | ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square) |
+| **MLOps** | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Evidently AI](https://img.shields.io/badge/Evidently%20AI-ED0500?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| **GenAI & RAG** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-6D28D9?style=flat-square&logoColor=white) |
+| **Serving & Cloud** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| **Also** | React · Next.js · TypeScript · JavaScript · Tailwind CSS · Node.js · Java · Kotlin · Android · Firebase · MongoDB · MySQL · Redis · OpenCV |
 
 ---
 
-## 🚀 Featured Projects
+<!-- FEATURED PROJECTS -->
+## Featured Projects
 
 <div align="center">
 
-<!-- ── HERO CARD ─────────────────────────────────────────── -->
+<!-- ChronoCast AI -->
+<table width="90%" border="0"><tr><td align="left">
 
-<table width="90%" border="0"><tr><td>
+### ChronoCast AI &nbsp; ![Live](https://img.shields.io/badge/●%20LIVE-22c55e?style=flat-square&labelColor=0d1117)
 
-### &nbsp;🛰️ &nbsp;Orion Market AI &nbsp;&nbsp; ![Live](https://img.shields.io/badge/●%20LIVE-22c55e?style=flat-square&labelColor=0d1117)
+> **End-to-end MLOps platform for Bitcoin price forecasting**
 
-> **AI-powered stock intelligence platform deployed on Azure**
+Trains Linear Regression, ARIMA and LSTM forecasters, tracks experiments in MLflow, and uses a champion-challenger model registry so a new model only replaces the live one if it performs better. Evidently AI monitors data drift. The system is containerized with Docker, served behind Nginx on an Azure VM, and deployed through a CI/CD pipeline, with a Django and React application on top.
 
-Full-stack platform with RAG pipelines, FinBERT sentiment scoring, Groq-powered AI equity reports, portfolio clustering, quality scoring engine & real-time stock data — built with Django + React 19.
+<!-- Add one headline result here, e.g. the best model's RMSE or MAPE against a naive last-value baseline -->
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Evidently AI](https://img.shields.io/badge/Evidently%20AI-ED0500?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6D28D9?style=flat-square&logoColor=white)
-![FinBERT](https://img.shields.io/badge/FinBERT-0077B6?style=flat-square&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![yFinance](https://img.shields.io/badge/yFinance-1a1a2e?style=flat-square&logoColor=white)
 
-🌐 **[oriona.duckdns.org](http://oriona.duckdns.org)** &nbsp;·&nbsp; RAG · Sentiment · AI Reports · Portfolio Clustering
+**Live:** [chrono-cast.duckdns.org](http://chrono-cast.duckdns.org) &nbsp;·&nbsp; **Code:** [ChronoCast-Ai](https://github.com/anasjahagirdar/ChronoCast-Ai)
 
 </td></tr></table>
 
 <br/>
 
-<!-- ── PROJECT GRID ──────────────────────────────────────── -->
+<!-- BTC Price Prediction on Databricks -->
+<table width="90%" border="0"><tr><td align="left">
 
-<table width="90%" border="0">
-<tr>
+### BTC Price Prediction on Databricks
 
-<!-- ChronoCast AI -->
-<td width="50%" valign="top">
+> **Automated forecasting pipeline on the medallion architecture**
 
-**[⚡ ChronoCast AI](https://github.com/anasjahagirdar/ChronoCast-Ai)** &nbsp; ![Live](https://img.shields.io/badge/●%20LIVE-22c55e?style=flat-square&labelColor=0d1117)
+Data flows through Bronze, Silver and Gold Delta Lake layers built with PySpark, with Spark ML for modeling and MLflow for tracking. Hourly Databricks jobs generate predictions, and a live dashboard with five visualizations presents the results. The model reached an R² of 0.97 and a MAPE of 1.68%.
 
-> Production-grade BTC forecasting MLOps platform
-
-Linear Regression · ARIMA · LSTM models, MLflow experiment tracking, champion-challenger model registry, Evidently AI drift detection — deployed on Azure VM with Docker + Nginx CI/CD.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-</td>
-
-<!-- BTC Databricks -->
-<td width="50%" valign="top">
-
-**[₿ BTC Price Prediction — Databricks](https://github.com/anasjahagirdar/btc-price-prediction-databricks)**
-
-> Automated BTC pipeline on Databricks Medallion Architecture
-
-Bronze → Silver → Gold layers using PySpark, Delta Lake & Spark ML. R² of 0.97, MAPE of 1.68%. Live Databricks dashboard with 5 visualizations & hourly prediction jobs.
+<!-- Add the validation method and a naive-baseline comparison for these metrics -->
 
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
@@ -169,78 +108,97 @@ Bronze → Silver → Gold layers using PySpark, Delta Lake & Spark ML. R² of 0
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![yFinance](https://img.shields.io/badge/yFinance-1a1a2e?style=flat-square&logoColor=white)
 
-</td>
-</tr>
+**Code:** [btc-price-prediction-databricks](https://github.com/anasjahagirdar/btc-price-prediction-databricks)
 
-<tr>
+</td></tr></table>
 
-<!-- Luminex -->
-<td width="50%" valign="top">
+<br/>
 
-**[📊 Luminex Stock Analyzer](https://github.com/anasjahagirdar/Luminex-Stock-Market-Portfolio-Analyzer-with-Prediction)**
+<!-- Orion Market AI -->
+<table width="90%" border="0"><tr><td align="left">
 
-> AI-powered portfolio analytics with ML price prediction
+### Orion Market AI &nbsp; ![Live](https://img.shields.io/badge/●%20LIVE-22c55e?style=flat-square&labelColor=0d1117)
 
-Real-time stock charts, LSTM & Linear Regression prediction, K-Means portfolio clustering, Sharpe ratio & risk scoring — supports Indian (BSE) & International markets.
+> **AI stock intelligence platform with RAG and financial sentiment analysis**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+Combines retrieval-augmented generation on a ChromaDB vector store, FinBERT sentiment scoring, and Groq-powered LLMs that write AI equity reports, alongside portfolio clustering, a quality-scoring engine and real-time market data from yFinance. Built with Django and React 19, backed by PostgreSQL, and deployed on Azure.
 
-</td>
-
-<!-- GoldSilver -->
-<td width="50%" valign="top">
-
-**[🥇 GoldSilver Forecast ML](https://github.com/anasjahagirdar/GoldSilver-Forecast-ML-project)**
-
-> Gold & Silver price predictor with INR conversion
-
-Flask + scikit-learn Linear Regression model, live price fetching via yFinance, INR conversion, Chart.js visualizations — fully interactive prediction interface.
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![yFinance](https://img.shields.io/badge/yFinance-6D28D9?style=flat-square&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-
-<!-- Tiffin Service -->
-<td width="50%" valign="top">
-
-**[🍱 Tiffin Service Management](https://github.com/anasjahagirdar/Tiffin-service-management)**
-
-> Full-stack tiffin subscription & delivery platform
-
-Customer portal + admin dashboard with subscription management, delivery tracking, and order analytics — deployed on Azure with GitHub Actions CI/CD.
+<!-- If someone else worked on this project with you, credit them here, e.g. "Co-built with [@username](https://github.com/username)" -->
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6D28D9?style=flat-square&logoColor=white)
+![FinBERT](https://img.shields.io/badge/FinBERT-0077B6?style=flat-square&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![yFinance](https://img.shields.io/badge/yFinance-1a1a2e?style=flat-square&logoColor=white)
 
-</td>
+**Live:** [oriona.duckdns.org](http://oriona.duckdns.org)
 
-<td width="50%" valign="top">
-<!-- placeholder for future project -->
-</td>
+</td></tr></table>
 
-</tr>
-</table>
+<br/>
+
+<!-- OPTIONAL: to show MediPredict, put its repo URL in the Code link below, then delete the line that starts the comment and the line that ends it. -->
+<!--
+<table width="90%" border="0"><tr><td align="left">
+
+### MediPredict
+
+> **Two-stage ML pipeline for health diagnostics**
+
+A health diagnostic platform built around a two-stage machine learning pipeline that combines a RandomForest with a StackingClassifier using XGBoost. Served through Django REST with JWT authentication, a React frontend and Azure SQL, and deployed on Azure with CI/CD.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Code:** [MediPredict](https://github.com/anasjahagirdar/REPO-NAME)
+
+</td></tr></table>
+
+<br/>
+-->
+
+<!-- Luminex -->
+<table width="90%" border="0"><tr><td align="left">
+
+### Luminex Stock Analyzer
+
+> **Portfolio analytics with ML price prediction**
+
+Real-time stock charts with LSTM and Linear Regression price prediction, K-Means portfolio clustering, and Sharpe ratio and risk scoring, covering Indian (BSE) and international markets. Built with a FastAPI backend and a React and TypeScript frontend.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+**Code:** [Luminex-Stock-Market-Portfolio-Analyzer-with-Prediction](https://github.com/anasjahagirdar/Luminex-Stock-Market-Portfolio-Analyzer-with-Prediction)
+
+</td></tr></table>
+
+<br/>
+
+<!-- More projects -->
+<table width="90%" border="0"><tr><td align="left">
+
+### More Projects
+
+[**GoldSilver Forecast ML**](https://github.com/anasjahagirdar/GoldSilver-Forecast-ML-project) is a Flask and scikit-learn Linear Regression app that predicts gold and silver prices from live yFinance data, with INR conversion and Chart.js visualizations. [**Tiffin Service Management**](https://github.com/anasjahagirdar/Tiffin-service-management) is a Django, React and PostgreSQL subscription and delivery platform with a customer portal and admin dashboard, deployed on Azure with GitHub Actions CI/CD.
+
+</td></tr></table>
 
 </div>
 
 ---
 
 <!-- GITHUB STATS -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -249,79 +207,23 @@ Customer portal + admin dashboard with subscription management, delivery trackin
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=anasjahagirdar&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&stroke=a78bfa&border_radius=12)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<!-- PROFILE SUMMARY -->
-## 📦 Profile Summary
-
-<div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasjahagirdar&theme=tokyonight)](https://github.com/anasjahagirdar)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anasjahagirdar&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anasjahagirdar&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anasjahagirdar&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anasjahagirdar&theme=tokyonight&utcOffset=5.5" />
-
-</div>
-
----
-
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anasjahagirdar&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<!-- CONTRIBUTION GRAPH -->
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Anas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anasjahagirdar&bg_color=0d1117&color=a78bfa&line=a78bfa&point=f59e0b&area=true&area_color=7c3aed&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ---
 
 <!-- CONNECT -->
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-jahagirdar-82245b2b6)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anasjahagirdar)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasjahagirdar1234@gmail.com)
-[![Live Project](https://img.shields.io/badge/🛰️%20Orion%20Market%20AI-oriona.duckdns.org-a78bfa?style=for-the-badge)](http://oriona.duckdns.org)
 
 </div>
 
 <br/>
 
----
-
-<div align="center">
-
-> *"First, solve the problem. Then, write the code."*
-
-</div>
-
----
-
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0d0d1a&height=130&section=footer&text=Thanks%20for%20stopping%20by!%20⭐%20Star%20something%20if%20you%20liked%20it&fontSize=16&fontColor=a78bfa&animation=fadeIn&fontAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0d0d1a&height=100&section=footer" width="100%" />
 
 </div>
